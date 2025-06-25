@@ -39,8 +39,8 @@ Hi there! I'm **Sushanto Chandra Pal**, a passionate and self-motivated full-sta
   <img src="https://github-readme-stats.vercel.app/api?username=sushanto30&show_icons=true&theme=radical" alt="Sushanto's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sushanto30&theme=radical" alt="GitHub Streak" />
+ <p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=sushanto30&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
