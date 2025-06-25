@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/Z7qZzTV.jpg" alt="Banner" width="100%" />
+  <img src="https://imgur.com/a/yxK3BBc" alt="Banner" width="100%" />
 </p>
 
 <!-- Animated Typing Text -->
