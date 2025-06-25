@@ -1,5 +1,13 @@
- <!-- Banner -->
-<img src="https://imgur.com/EY5qF9M" alt="banner" />
+ 
+ <!-- Banner শুরু -->
+<p align="center">
+  <img src="https://your-domain.com/your-banner.png" alt="Banner" width="100%" />
+</p>
+
+<!-- Animated title -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Welcome+to+My+GitHub!&animation=slideIn" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Sushanto</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast</h3>
