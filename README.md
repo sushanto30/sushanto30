@@ -19,10 +19,7 @@ Hi there! I'm **Sushanto Chandra Pal**, a passionate and self-motivated full-sta
 - 💡 I love building scalable web apps with clean UI and smooth UX
 - 👯 I’m looking to collaborate on open-source or real-world full-stack projects
 - 🧠 Always learning new technologies and improving my problem-solving skills
-- 📫 How to reach me:
-  - 📧 Email: [sushantopal30@gmail.com](mailto:sushantopal30@gmail.com)
-  - 💼 LinkedIn: [linkedin.com/in/sushanto-chandra-pal-4956532b9](https://www.linkedin.com/in/sushanto-chandra-pal-4956532b9/)
-
+ 
 ---
 
 ## ⚙️ Skills
