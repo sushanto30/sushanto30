@@ -12,7 +12,8 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **Sushanto Chandra Pal**, a passionate and self-motivated full-stack web developer from Bangladesh 🇧🇩.
+ I'm a passionate Full Stack Developer from Bangladesh.  
+Currently, I'm working on MERN stack projects and exploring Next.js and Tailwind CSS.
 
 - 🔭 I’m currently working on MERN Stack projects (MongoDB, Express.js, React, Node.js)
 - 🌱 I’m currently learning advanced backend architecture and deployment strategies
