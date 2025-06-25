@@ -1,5 +1,5 @@
  <!-- Banner -->
-<img src="[https://your-banner-image-url.com/banner.png](https://i.ibb.co/9kS6knmg/node-js.png)" alt="banner" />
+<img src="https://i.ibb.co/9kS6knmg/node-js.png" alt="banner" />
 
 <h1 align="center">Hi 👋, I'm Sushanto</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast</h3>
