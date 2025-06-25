@@ -1,5 +1,6 @@
  <!-- Banner -->
-<img src="https://i.ibb.co/9kS6knmg/node-js.png" alt="banner" />
+<img src="![image](https://github.com/user-attachments/assets/f8d415c3-cf0d-44bf-91de-08ae9df7687f)
+" alt="banner" />
 
 <h1 align="center">Hi 👋, I'm Sushanto</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast</h3>
