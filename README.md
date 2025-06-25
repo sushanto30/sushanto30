@@ -1,13 +1,14 @@
- 
- <!-- Banner শুরু -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://your-domain.com/your-banner.png" alt="Banner" width="100%" />
+  <img src="https://i.imgur.com/Z7qZzTV.jpg" alt="Banner" width="100%" />
 </p>
 
-<!-- Animated title -->
+<!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome+to+My+GitHub!&animation=slideIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Sushanto+Chandra+Pal;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
+ 
+
 
 <h1 align="center">Hi 👋, I'm Sushanto</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast</h3>
