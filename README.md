@@ -1,5 +1,5 @@
  <!-- Banner -->
-<img src="https://images.app.goo.gl/myQ8G5yZb8Q3dbFQ6" alt="banner" />
+<img src="https://imgur.com/EY5qF9M" alt="banner" />
 
 <h1 align="center">Hi 👋, I'm Sushanto</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast</h3>
